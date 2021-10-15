@@ -1,0 +1,2 @@
+1. The bug is that the value is passed in as strings and stored as strings, thus we returned the sum of the two strings of the numbers.
+2. we can change line 11 to let result = parseInt(num1) + parseInt(num2), so that num1 and num2 are mapped to integers and then the result would be the sum of the integers.
