@@ -71,7 +71,7 @@ F. true since Boolean(2) converts 2 to the boolean value true
 
 19. 
 1
-2
-3
 4
+3
+2
 It should print 1, then wait a second then print 2, then print 3, then print 4
