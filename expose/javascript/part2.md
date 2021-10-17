@@ -74,4 +74,4 @@ F. true since Boolean(2) converts 2 to the boolean value true
 4
 3
 2
-It should print 1, then wait a second then print 2, then print 3, then print 4
+It should print 1, then wait a second then print 2, within the second, 4 and 3 are printed.
