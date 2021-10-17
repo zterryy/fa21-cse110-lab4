@@ -10,5 +10,5 @@ let statistics = {
 
 for (let property in statistics) {
     if(statistics[property]%2==1||property.charAt(0)=="r")
-    console.log(statistic[property]);
+    console.log(`${statistics[property]}`);
   }
